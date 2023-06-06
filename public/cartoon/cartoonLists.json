@@ -1,0 +1,206 @@
+[
+    {
+        "img": "../img01/1.jpg",
+        "follow": 27,
+        "name": "不说谎恋人",
+        "info": "恋爱 都市 原创",
+        "id": 1,
+        "imglist": [
+            {
+                "img": "../img01/like01.jpg",
+                "id": 0,
+                "name": "第1、2话 女主当街被甩？"
+            },
+            {
+                "img": "../img01/like02.jpg",
+                "id": 1,
+                "name": "第3话 女主沦为丧家犬？！"
+            },
+            {
+                "img": "../img01/like03.jpg",
+                "id": 2,
+                "name": "第4话 你的无能与我无关"
+            },
+            {
+                "img": "../img01/like04.jpg",
+                "id": 3,
+                "name": "第5话 你离我远点！"
+            },
+            {
+                "img": "../img01/like05.jpg",
+                "id": 4,
+                "name": "第6话 被客户掀裙子？"
+            }
+        ]
+    },
+    {
+      "img":"../img01/2.jpg",
+      "follow": 58,
+      "name": "给我来个小和尚",
+      "info": "奇幻 剧情 爆笑",
+      "id": 2,
+      "imglist": [
+            {
+          "img":"../img01/head01.jpg",
+          "id": 5,
+        "name": "第1话 第一次见那和尚"
+            },
+            {
+          "img":"../img01/head02.jpg",
+          "id": 6,
+        "name": "第2话 谁说狐狸不吃胡萝卜"
+            },
+            {
+          "img":"../img01/head03.jpg",
+          "id": 7,
+        "name": "第3话 师兄竟然拿买菜的钱去摸耳朵？？？"
+            },
+            {
+          "img":"../img01/head04.jpg",
+          "id": 8,
+        "name": "第4话 趁着大师兄睡觉小狐狸竟然..."
+            },
+            {
+          "img":"../img01/head05.jpg",
+          "id": 9,
+        "name": "第5话 大师兄的小梦妖"
+            }
+        ]
+    },
+    {
+      "img":"../img01/3.jpg",
+      "follow": 90,
+      "name": "猎妻物语",
+      "info": "恋爱 校园 都市",
+      "id": 3,
+      "imglist": [
+            {
+          "img":"../img01/wife01.jpg",
+          "id": 10,
+        "name": "第1话  初遇帅学长"
+            },
+            {
+          "img":"../img01/wife01.jpg",
+          "id": 11,
+        "name": "第2话 亲……亲上了？"
+            },
+            {
+          "img":"../img01/wife01.jpg",
+          "id": 12,
+        "name": "第3话 耳朵红了"
+            },
+            {
+          "img":"../img01/wife01.jpg",
+          "id": 13,
+        "name": "第4话 做梦"
+            },
+            {
+          "img":"../img01/wife01.jpg",
+          "id": 14,
+        "name": "第5话  现场教学"
+            }
+        ]
+    },
+    {
+      "img":"../img01/4.jpg",
+      "follow": 34,
+      "name": "甜美的咬痕",
+      "info": "奇幻 完结 唯美",
+      "id": 4,
+      "imglist": [
+            {
+          "img":"../img01/sweet01.jpg",
+          "id": 15,
+        "name": "序章 宿命的邂逅 "
+            },
+            {
+          "img":"../img01/sweet02.jpg",
+          "id": 16,
+        "name": "第1话 命运纠缠的起点"
+            },
+            {
+          "img":"../img01/sweet03.jpg",
+          "id": 17,
+        "name": "第2话 突然的悸动"
+            },
+            {
+          "img":"../img01/sweet04.jpg",
+          "id": 18,
+        "name": "周五番外~"
+            },
+            {
+          "img":"../img01/sweet05.jpg",
+          "id": 19,
+        "name": "第3话 只有我可以~"
+            }
+        ]
+    },
+    {
+      "img":"../img01/5.jpg",
+      "follow": 12,
+      "name": "色彩魔法使雪莉",
+      "info": "奇幻 原创",
+      "id": 5,
+      "imglist": [
+            {
+          "img":"../img01/sweet01.jpg",
+          "id": 20,
+        "name": "序章 色彩争夺开战！ "
+            },
+            {
+          "img":"../img01/sweet02.jpg",
+          "id": 21,
+        "name": "第1话 蓝之章开启！"
+            },
+            {
+          "img":"../img01/sweet03.jpg",
+          "id": 22,
+        "name": "第2话 王子的过去"
+            },
+            {
+          "img":"../img01/sweet04.jpg",
+          "id": 23,
+        "name": "第3话 校园再次相遇~"
+            },
+            {
+          "img":"../img01/sweet05.jpg",
+          "id": 24,
+        "name": "第4话 入学首日 "
+            }
+        ]
+    },
+    {
+      "img":"../img01/6.jpg",
+      "follow": 108,
+      "name": "羽烬",
+      "info": "恋爱 奇幻 剧情",
+      "id": 6,
+      "imglist": [
+            {
+          "img":"../img01/sweet01.jpg",
+          "id": 25,
+        "name": "序章 色彩争夺开战！ "
+            },
+            {
+          "img":"../img01/sweet02.jpg",
+          "id": 26,
+        "name": "第1话 蓝之章开启！"
+            },
+            {
+          "img":"../img01/sweet03.jpg",
+          "id": 27,
+        "name": "第2话 王子的过去"
+            },
+            {
+          "img":"../img01/sweet04.jpg",
+          "id": 28,
+        "name": "第3话 校园再次相遇~"
+            },
+            {
+          "img":"../img01/sweet05.jpg",
+          "id": 29,
+        "name": "第4话 入学首日 "
+            }
+        ]
+    }
+]
